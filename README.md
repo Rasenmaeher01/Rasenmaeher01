@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  Things I use
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,html,mysql,idea" />
   </a>
