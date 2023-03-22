@@ -3,4 +3,6 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,idea,mysql)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,idea,mysql)](https://skillicons.dev)
+</p>
